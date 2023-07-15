@@ -1,0 +1,5 @@
+Answer for second question:
+
+select top 5 state name 
+from agmarket_monthly
+group by commodities;
